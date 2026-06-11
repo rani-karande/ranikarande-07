@@ -1,2 +1,2 @@
 # ranikarande-07
-this is my fist reporatory
+this is my first reporatory
